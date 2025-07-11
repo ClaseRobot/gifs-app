@@ -5,6 +5,6 @@ export const environment = {
   companySlogan: 'La mejor app de gifs',
 
   // apiKeys
-  giphyApiKey: 'OWsD3vbgwzxkBBbPeHQgicTDdnEN8P6H',
+  giphyApiKey: '########',
   giphyUrl: 'https://api.giphy.com/v1'
 };
